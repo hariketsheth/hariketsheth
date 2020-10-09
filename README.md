@@ -13,7 +13,7 @@
 
 - Facebook - [Hariket Sheth](https://www.facebook.com/hariketacoustics/)
 - Instagram - [HariketAcoustics](https://www.instagram.com/hariketacoustics/)
-- Youtube - [Hariket Acoustics Official](https://www.youtube.com/c/HariketSheth)
+- Youtube - [Hariket Acoustics Official](https://www.youtube.com/c/HariketAcoustics)
 - Twitter - [@hariketsheth](https://twitter.com/hariketsheth)
 - LinkedIn - [Hariket Sukeshkumar Sheth](https://in.linkedin.com/in/hariketsheth)
 
