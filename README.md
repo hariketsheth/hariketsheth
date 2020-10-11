@@ -4,10 +4,12 @@
 
 # Hello there! 👋
 
-### Hey, It's Hariket Sheth
+### Hey, I'm Hariket Sheth
 
-- 💻 Student pursuing B.Tech. in **Electronics and Computer Science Engineering** at [VIT, Chennai](http://chennai.vit.ac.in/).
-- 🌱 Currently learning Python, Java, PHP.
+- 💻 Student 
+- 📔 Pursuing B.Tech. in **Electronics and Computer Science Engineering** at [VIT, Chennai](http://chennai.vit.ac.in/).
+- 🌱 Currently learning Python, Java, C.
+
 
 ## 📫 Reach me at: 
 
