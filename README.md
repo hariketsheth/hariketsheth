@@ -20,4 +20,4 @@
 
 
 ![Hariket Sheth's Stats](https://github-readme-stats.vercel.app/api?username=hariketsheth&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&theme=radical&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&theme=radical&langs_count=8)
