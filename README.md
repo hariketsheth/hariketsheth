@@ -37,11 +37,17 @@
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <div align="center" >
 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/HariketSheth)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/HariketSheth)](https://twitter.com/HariketSheth)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/hariketsheth)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics)
+<br>
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/hariketacoustics/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:hariket.sukeshkumar2020@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics)
+[![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&labelColor=white&logo=quora&logoColor=red)](https://www.quora.com/profile/Hariket-Sukeshkumar-Sheth)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&labelColor=white&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/14498035/hariket-sukesh-kumar-sheth)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7012335112/?text=Hi%20Hariket)
 
 </p>
 <br/>
