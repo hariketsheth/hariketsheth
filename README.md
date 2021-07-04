@@ -51,7 +51,13 @@
 
 </p>
 <br/>
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Coding Profiles</h3>  
+<div align="center" >
+ 
+[![Codechef Badge](https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hariketsheth1)
+[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hariketsheth)
 
+ 
 <div align="center">
 
 ### GitHub Stats
