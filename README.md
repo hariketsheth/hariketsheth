@@ -64,7 +64,7 @@
 ![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=HariketSheth&custom_title=Hariket%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
 ### GitHub Contributions
-![Hariket Sheth GitHub Contributions]()
+![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=HariketSheth)
 
 [![Hariket Sheth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=xcode)](https://github.com/hariketsheth)
 
