@@ -66,8 +66,6 @@
 ### GitHub Contributions
 ![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=HariketSheth)
 
-[![Hariket Sheth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=xcode)](https://github.com/hariketsheth)
-
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&layout=compact&theme=radical&langs_count=8)
  
