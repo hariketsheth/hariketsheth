@@ -7,7 +7,7 @@
 <br/>
 <h3 align="center" style="color:yellow;" >About Me</h3>  
  <div align="center">
- 👨🏻‍🎓 First Year Undergrad at Vellore Institute of Technology, Chennai
+ 👨🏻‍🎓 Sophomore at Vellore Institute of Technology, Chennai
 <br>🤖 Web & UI/UX Enthusiast
 <br>⚒️ Focusing on Contributing to Open Source and several projects💜
 <br>👨‍💻 Learning Java, React, Flutter and PHP
