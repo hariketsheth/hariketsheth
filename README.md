@@ -59,15 +59,10 @@
 
  
 <div align="center">
-
-### GitHub Stats
-![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=HariketSheth&custom_title=Hariket%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
-
+ 
 ### GitHub Contributions
 ![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=HariketSheth)
-
-### Most Used Langauges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&layout=compact&theme=radical&langs_count=8)
- 
 <br>
 </p>
+ 
+ ![Metrics](https://metrics.lecoq.io/hariketsheth?template=classic&isocalendar=1&lines=1&followup=1&people=1&introduction=1&languages=1&stackoverflow=1&tweets=1&achievements=1&gists=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&stackoverflow.user=14498035&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta)
