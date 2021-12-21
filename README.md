@@ -61,7 +61,7 @@
 <div align="center">
  
 ### GitHub Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariketsheth&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=FF6800&sideNums=FFA400&currStreakNum=FFE788)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariketsheth&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=FF6800&sideNums=FFA400&currStreakNum=FFE788&background=0D1117)
 <br>
 </p>
  
