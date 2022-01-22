@@ -2,7 +2,7 @@
 
 <h3 align="center">Hey there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Hariket Sukeshkumar Sheth <span style="color:yellow;">🤩</span><br><br>
  
-![visitors](https://komarev.com/ghpvc/?username=hariketsheth&style=flat-square&label=Visitors&color=orange)
+![visitors](https://komarev.com/ghpvc/?username=hariketsheth&style=flat-square&label=Visitors&color=green)
 </h3>  
 <br/>
 <h3 align="center" style="color:yellow;" >About Me</h3>  
@@ -61,10 +61,7 @@
 <div align="center">
  
 ### GitHub Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariketsheth&theme=dark&date_format=M%20j%5B%2C%20Y%5D&sideNums=FFC796&sideLabels=FFC796&currStreakNum=FF9319&fire=FFC796&ring=FFC796&background=1C1003)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariketsheth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
 <br>
 </p>
  
-<!--
-![Metrics](https://metrics.lecoq.io/hariketsheth?template=classic&isocalendar=1&languages=1&introduction=1&gists=1&followup=1&lines=1&achievements=1&pagespeed=1&tweets=1&stackoverflow=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&stackoverflow.user=14498035&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta)
--->
