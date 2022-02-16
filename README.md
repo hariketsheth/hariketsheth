@@ -59,12 +59,7 @@
 
  
 <div align="center">
- 
- <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
  
 ### GitHub Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariketsheth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://hariketsheth.github.io)
