@@ -1,68 +1,72 @@
 [![MastHead](https://github.com/hariketsheth/hariketsheth/blob/main/img/intro.png)](https://hariketsheth.github.io)
 
-<h3 align="center">Hey there, I'm Hariket Sukeshkumar Sheth <span style="color:yellow;">🤩</span><br><br>
- 
-![visitors](https://komarev.com/ghpvc/?username=hariketsheth&style=flat-square&label=Visitors&color=5d9732)
-</h3>  
-<br/>
-<h3 align="center" style="color:yellow;" >About Me</h3>  
- <div align="center">
- 👨🏻‍🎓 Sophomore at Vellore Institute of Technology, Chennai
-<br>🤖 Web & UI/UX Enthusiast
-<br>⚒️ Focusing on Contributing to Open Source and several projects💜
-<br>👨‍💻 Learning Java, React, Flutter and PHP
- </div>
+### Hi there 👋
 
-<br/>
-
-<h3 align="center" style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
-<div align="center">
-
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)  [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![PHP Badge](https://img.shields.io/badge/PHP-6d4dff?style=for-the-badge&logo=php&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)  
-
-</div>
-<h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Currently exploring and learning 👨‍💻 :</h3>  
-<p align="center">
- <img src="https://img.shields.io/badge/Flutter-2dbfe3?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
-
-
-</p>
-
-<br />
-
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Lets Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
-<div align="center" >
-
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/HariketSheth)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/HariketSheth)](https://twitter.com/HariketSheth)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/hariketsheth)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=blue)](https://www.facebook.com/HariketAcoustics)
+You can find me here :
+<p align="left">
+  <a href="https://www.linkedin.com/in/hariketsheth"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shethhariket@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hashnode.com/@hariketsheth"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+  
+  
 <br>
+ 
+## About Me
+Hi, I am Hariket (😉Also called as Hari) !!
+- 🔭 I am an undergraduate senior pursuing Bachelor's in Computer Science from India!.
+- 🌱 I am currently an MLH fellow - working on Holaplex and Solana Labs and System Architect at Linguee Global Solutions
+- 👩‍💻 I find my technical interests in Full-stack development, Open Source 💖, System Designing, DevOps, Competitive Coding. 
+- 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
+- 🖋️ I love music! Both hearing and composing 🎶
+ 
+ <br>
+ 
+## Experience 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://www.instagram.com/hariketacoustics/)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:hariket.sukeshkumar2020@gmail.com)
-[![Quora Badge](https://img.shields.io/badge/-Quora-red?style=flat&labelColor=white&logo=quora&logoColor=red)](https://www.quora.com/profile/Hariket-Sukeshkumar-Sheth)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&labelColor=white&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/14498035/hariket-sukesh-kumar-sheth)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7012335112/?text=Hi%20Hariket)
+ <br>
+ 
+## Tech Stack
 
+<p align="left">
+ <a href="#">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
+<img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/> 
+   <img alt="Unity" src="https://img.shields.io/badge/Unity-Unity?style=for-the-badge&logo=unity&logoColor=fff&color=5C3EB8"/> 
+ 
+ </a>
 </p>
-<br/>
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Coding Profiles</h3>  
-<div align="center" >
- 
-[![Codechef Badge](https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hariketsheth1)
-[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hariketsheth)
+
 
  
-<div align="center">
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=hariketsheth&label=Views&color=blue&style=plastic" alt="hariketsheth" />
+ </p>
 
- 
-### GitHub Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariketsheth&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://hariketsheth.github.io)
-<br>
-</p>
- 
+## Connect with me for :
+  - Collaborating on New Projects
+  - Research on Topics - AI, Machine Learning, Blockchain, Cloud Computing, Deep Learning & Big Data and Analytics
+  - Pair Programming
+  - Help with getting started with open source.
+  - Any new opportunity 
+  
+
+![Hariket Sheth Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hariketsheth&show_icons=true&include_all_commits=true&theme=radical)
+
+<h1 align="left">GitHub Statistics</h1>
+
+[![Hariket's github activity graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/hariketsheth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&theme=tokyonight&layout=compact&" />
+</a>
