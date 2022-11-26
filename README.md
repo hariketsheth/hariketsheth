@@ -5,7 +5,8 @@
 You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/hariketsheth"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://hashnode.com/@hariketsheth"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://twitter.com/HariketSheth"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://hashnode.com/@hariketsheth"><img title="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <a href="mailto:shethhariket@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UC_5OwICGTbYmI4uy9lUI8QA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-F14836?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   
@@ -22,7 +23,9 @@ Hi, I am Hariket (😉Also called as Hari) !!
  <br>
  
 ## Experience 
+- [Samsung PRISM Developer](https://www.samsungprism.com/) - Working as a Software Developer at Samsung R&D, India under PRISM Program. Involves contributing and working on credible worklets and projects.
 - [Major League Hacking Fellow](https://fellowship.mlh.io) - Contributed to Open Source projects and organisations [Github](https://github.com/github) and [Solana](https://github.com/holaplex).
+- [Technical Lead, IoTHINC VIT Chennai](https://github.com/IoTHINC-VIT-Chennai) - Technical Lead at IoTHINC VIT Chennai. Mentoring and Guiding students in technical aspects of Internet of Things (IoT). Working towards building a IoT enthusiast community.
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) - Beta Level Microsoft Learn Student Ambassador. Conducted workshops & webinars on DevOps, Open Source, Cloud, Web Dev, etc.
 - [Top Contributor at GWoC](https://github.com/girlscript/winter-of-contributing) - Contributed to several domains such as Backend, Frontend and Databases. Was declared as one of the top contributors in Girlscript Winter of Contributing (GWoC) Database Domain.
 - [Programme Representative](https://chennai.vit.ac.in) - Selected as one of the Programme Representatives for Computer Science and Engineering (CSE) branch at Vellore Institute of Technology, Chennai
@@ -66,6 +69,9 @@ Hi, I am Hariket (😉Also called as Hari) !!
 <img src="https://komarev.com/ghpvc/?username=hariketsheth&label=Views&color=blue&style=plastic" alt="hariketsheth" />
  </p>
 
+[![@hariketsheth's Holopin board](https://holopin.me/hariketsheth)](https://holopin.io/@hariketsheth)
+
+
 ## Connect with me for :
   - Collaborating on New Projects
   - Research on Topics - AI, Machine Learning, Blockchain, Cloud Computing, Deep Learning & Big Data and Analytics
@@ -73,13 +79,9 @@ Hi, I am Hariket (😉Also called as Hari) !!
   - Help with getting started with open source.
   - Any new opportunity 
   
-
-![Hariket Sheth Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hariketsheth&show_icons=true&include_all_commits=true&theme=radical)
-
+| ![Hariket Sheth Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hariketsheth&show_icons=true&include_all_commits=true&theme=radical) | ![Hariket Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&theme=tokyonight&layout=compact&) |     
+| :--: | :--: |
+  
 <h1 align="left">GitHub Statistics</h1>
 
 [![Hariket's github activity graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="https://github.com/hariketsheth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&theme=tokyonight&layout=compact&" />
-</a>
