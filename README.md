@@ -1,4 +1,3 @@
-[![MastHead](https://github.com/hariketsheth/hariketsheth/blob/main/img/intro.png)](https://hariketsheth.github.io)
 
 ### Hi there 👋
 
@@ -84,4 +83,4 @@ Hi, I am Hariket (😉Also called as Hari) !!
   
 <h1 align="left">GitHub Statistics</h1>
 
-[![Hariket's github activity graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hariket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hariketsheth&theme=github)](https://github.com/hariketsheth)
